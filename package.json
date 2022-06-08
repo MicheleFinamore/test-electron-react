@@ -51,6 +51,7 @@
   },
   "devDependencies": {
     "concurrently": "^7.2.1",
+    "electron-prebuilt-compile": "^8.2.0",
     "wait-on": "^6.0.1"
   },
   "main": "public/electron.js",
@@ -84,5 +85,4 @@
       ]
     }
   }
-
 }
